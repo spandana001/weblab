@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="lab4.css"?>
 <STUDENTDATA>
 	<STUDENT>
 		<USN>1BY24CS101</USN>
@@ -24,3 +26,4 @@
 		<EMAIL>spoorti@example.com</EMAIL>
 	</STUDENT>
 </STUDENTDATA>
+
